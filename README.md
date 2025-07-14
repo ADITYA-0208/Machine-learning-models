@@ -81,9 +81,3 @@ Third Year B.Tech (CSE), Jaypee Institute of Information Technology
 
 This repository is open-sourced under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd like a `requirements.txt` file or individual READMEs inside each project folder too.
-```
